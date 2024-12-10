@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+*{
+    font-size: 1.2em;
+}
+
+body{
+    background-color: yellow;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    color:white
+}
